@@ -8,4 +8,6 @@ int main(int, char**) {
     cout << "My nigga" << endl;
 
     cout << "Added by mofo" << endl;
+
+    cout << "FeatureB" << endl;
 }
