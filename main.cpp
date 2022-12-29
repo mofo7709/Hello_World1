@@ -11,6 +11,7 @@ int main(int, char**) {
 
     cout << "Hva skjer?" << endl;
 
+    cout << "Oioi";
     for(int i = 0; i < 10; ++i)
         cout << i+1 << endl;
 }
