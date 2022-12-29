@@ -10,4 +10,7 @@ int main(int, char**) {
     cout << "Added by mofo" << endl;
 
     cout << "Hva skjer?" << endl;
+
+    for(int i = 0; i < 10; ++i)
+        cout << i+1 << endl;
 }
