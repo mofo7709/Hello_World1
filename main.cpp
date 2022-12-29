@@ -13,4 +13,6 @@ int main(int, char**) {
 
     for(int i = 0; i < 10; ++i)
         cout << i+1 << endl;
+
+    cout << "Sirrudetdu" << endl;
 }
