@@ -17,5 +17,5 @@ int main(int, char**) {
 
     cout << "Sirrudetdu" << endl;
 
-    cout << "No shit";
+    cout << "No shit" << endl;
 }
