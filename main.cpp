@@ -16,4 +16,6 @@ int main(int, char**) {
         cout << i+1 << endl;
 
     cout << "Sirrudetdu" << endl;
+
+    cout << "No shit";
 }
